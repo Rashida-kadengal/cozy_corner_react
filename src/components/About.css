@@ -1,0 +1,30 @@
+
+.image {
+    border-radius: 20px;
+  }
+  .image img {
+    transition: transform 0.3s ease;
+  }
+  .image:hover img {
+    transform: scale(1.1);
+  }
+  .learn-more {
+    transition: transform 0.3s ease;
+  }
+  
+  .learn-more:hover {
+    background-color: gray;
+    transform: scale(1.1);
+  }
+  .icons {
+    transition: transform 0.3s ease;
+  }
+  
+  .icons:hover {
+    transform: scale(1.1);
+  }
+  .size {
+    width: 30px;
+    height: 30px;
+  }
+  
